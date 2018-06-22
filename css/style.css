@@ -1,0 +1,20 @@
+
+.img-responsive{
+	max-width: 100%;
+}
+
+body{
+	background-color: #F40A0E;
+	color:#F8F5F5;
+	font-size: 14px;
+}
+#menu{
+	padding:3px;
+	background-color: #F40A0E;
+	color:#F8F5F5;
+	font-size: 14px;
+}
+#otro{
+	background-color: #FFFFFF;
+}
+
